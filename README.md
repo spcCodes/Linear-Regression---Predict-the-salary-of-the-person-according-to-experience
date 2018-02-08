@@ -17,8 +17,8 @@ The training set is modelled(fit) using linear regression that is imported from 
 
 After the model is trained, we try to predict using the remaining test points using the method LinearRegressor.predict. The  plot showing the training and testing part of the dataset after being fit by the model is shown in figure below
 
-<img src="images/TrainingSetPrediction.png"  width ="100">
-<img src="images/TestSetPrdecition.png"  width ="100">
+<img src="images/TrainingSetPrediction.png"  width ="500">
+<img src="images/TestSetPrdecition.png"  width ="500">
 	
 
 As we can see the model has been trained properly and the line was able to predict almost accuractely for the test dataset.
